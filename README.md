@@ -1,4 +1,4 @@
-# MVVM - VM괴 AAC-VM의 차이
+# MVVM-VM괴 AAC-VM의 차이
 
 [참고문서](https://wooooooak.github.io/android/2019/05/07/aac_viewmodel/)
 
